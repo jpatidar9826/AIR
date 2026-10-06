@@ -1,0 +1,14 @@
+[
+  {"question": "How many people should be on an interview panel?", "expected_doc": "02_interview_panel_guidelines.md"},
+  {"question": "Can a candidate be rejected only by the AI screening tool?", "expected_doc": "01_recruitment_and_selection_policy.md"},
+  {"question": "What happens if an AI tool shows adverse impact on a group?", "expected_doc": "03_equal_opportunity_policy.md"},
+  {"question": "How long is data of unsuccessful candidates retained?", "expected_doc": "04_candidate_data_privacy.md"},
+  {"question": "How long is an offer letter valid?", "expected_doc": "05_offer_and_onboarding_policy.md"},
+  {"question": "What questions are interviewers not allowed to ask?", "expected_doc": "02_interview_panel_guidelines.md"},
+  {"question": "Can we upload resumes to public AI services?", "expected_doc": "04_candidate_data_privacy.md"},
+  {"question": "What is the probation period for new employees?", "expected_doc": "05_offer_and_onboarding_policy.md"},
+  {"question": "How many candidates should be on a shortlist?", "expected_doc": "01_recruitment_and_selection_policy.md"},
+  {"question": "What should a panelist do if they know the candidate personally?", "expected_doc": "02_interview_panel_guidelines.md"},
+  {"question": "Can candidates with a disability ask for adjustments in interviews?", "expected_doc": "03_equal_opportunity_policy.md"},
+  {"question": "How many interviews can an interviewer conduct per week?", "expected_doc": "02_interview_panel_guidelines.md"}
+]

@@ -1,0 +1,14 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=1.7          # optional: 4th model in the comparison
+matplotlib>=3.7
+joblib>=1.3
+streamlit>=1.40
+pypdf>=4.0
+python-docx>=1.1
+python-dotenv>=1.0
+kagglehub>=0.2        # optional: automatic dataset download
+openai>=1.30          # optional: only if MAAS gives an OpenAI-compatible / Azure endpoint
+pytest>=7.0
+# sentence-transformers>=2.7   # optional: semantic retrieval (set USE_EMBEDDINGS=true)
